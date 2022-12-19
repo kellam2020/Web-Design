@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background-color: #229488;}
+.green {
+  background-color: #229488 ;
+  color: white;
+}
+
+.padding {
+    padding-left: 50; 
+    padding-right: 50;
+    padding-top: 40; 
+}
+
+ 
+ 
